@@ -8,7 +8,7 @@
     <name>base-admin</name>
     <description>Base Admin一套简单通用的后台管理系统</description>
 
-    <!-- gef-branch -->
+    <!-- gef-master-branch -->
 
     <parent>
         <groupId>org.springframework.boot</groupId>
